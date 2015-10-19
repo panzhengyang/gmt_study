@@ -1,3 +1,7 @@
+
+gmt命令集合——适用于gmt4，gmt5命令后续会列举出来
+
+
 -R  设定范围 xmin/xmax/ymin/ymax 定义直角坐标地理坐标系
           xleft/yleft/xuright/yurightr 后面加r 这个表示倾斜的投影直角地理 描述最下面左边的点和最右边上边的点坐标
           grdfile  描述
